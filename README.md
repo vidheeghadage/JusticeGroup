@@ -1,2 +1,2 @@
-# FirstProject
-It is my first project
+# JusticeGroup
+It is a law firm website
